@@ -9,11 +9,14 @@
 
 [![1.png](https://i.postimg.cc/k5hKTs03/1.png)](https://postimg.cc/Z9pWR8YV)
 
+[![1-1.png](https://i.postimg.cc/QdhJMsvf/1-1.png)](https://postimg.cc/Mv3QPk6B)
+
 
 **7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?**
 
 [![2.png](https://i.postimg.cc/d1r3G9v9/2.png)](https://postimg.cc/2bjCDh1q)
 
+La corriente que circula por el circuito en serie es de 5mA
 
 
 **13. ¿Cuál es la resistencia total de doce resistores de 5.6 kohms dispuestos en serie?**
