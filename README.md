@@ -293,9 +293,23 @@ POSICIÓN C:
 (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
 aplicación de medición de 50 A?
 
+*DATOS
+
+R=? ; V= 50mV; I=50A
+
+*RESISTENCIA
+
+<img src="https://latex.codecogs.com/svg.image?R=\frac{V}{I}=\frac{0.05V}{50A}=0.001\Omega=1m\Omega" title="R=\frac{V}{I}=\frac{0.05V}{50A}=0.001\Omega=1m\Omega" />
+
 (b) ¿Cuánta corriente circula por el medidor?
 
+*DATOS
 
+I=?;  V=50mV;  R=10kohms
+
+*CORRIENTE
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{0.05V}{10000\Omega}=0.000005A=5\mu&space;A" title="I=\frac{V}{R}=\frac{0.05V}{10000\Omega}=0.000005A=5\mu A" />
 
 **43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?**
 
