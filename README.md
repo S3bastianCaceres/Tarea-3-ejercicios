@@ -190,5 +190,65 @@ b) A y B estan en corto
 
 <h4>CAPITULO 6</4>
 
+**1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.**
+
+
+
+**7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?**
+
+
+
+
+*** 13. La resistencia total de un circuito en paralelo es de 25 ohms. ¿Cuál es la corriente a través de un resistor de 220 ohms que forma parte de este circuito si la corriente total es de 100 mA?**
+
+
+
+
+
+**19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18**
+
+**-Ejercicio: 18. Tres grupos, uno de cinco resistores de 470 ohms, otro de diez resistores de 100 ohms, y uno más de dos resistores de 100 ohms están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?**
+
+
+
+
+**25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kÆ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?**
+
+
+**31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79**
+
+
+
+
+***37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kÆ de escala completa entre la derivación para realizar la medición**
+
+
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
+aplicación de medición de 50 A?
+
+(b) ¿Cuánta corriente circula por el medidor?
+
+
+
+**43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?**
+
+
+
+*** 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:**
+
+(a) 1 y 2 
+
+(b) 2 y 3 
+
+(c) 2 y 4 
+
+(d) 1 y 4
+
+
+
+
+
+
+
 
 
