@@ -62,20 +62,20 @@ Reemplazar ecuación 2 en 1:
 
 **(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?**
 
-<h2>POSICION B</h2>
+POSICION B
 
 <img src="https://latex.codecogs.com/svg.image?R_{B}=R_{total}-220\Omega=1310.61\Omega" title="R_{B}=R_{total}-220\Omega=1310.61\Omega" />
 
 <img src="https://latex.codecogs.com/svg.image?I_{b}=\frac{12V}{1310.61\Omega}=0.009A=9mA&space;" title="I_{b}=\frac{12V}{1310.61\Omega}=0.009A=9mA " />
 
 
-<h2>POSICION C</h2>
+POSICION C
 
 <img src="https://latex.codecogs.com/svg.image?R_{C}=R_{total}-220\Omega-470\Omega=840.61\Omega" title="R_{C}=R_{total}-220\Omega-470\Omega=840.61\Omega" />
 
 <img src="https://latex.codecogs.com/svg.image?I_{C}=\frac{12V}{840.61\Omega}=0.014A=14mA" title="I_{C}=\frac{12V}{840.61\Omega}=0.014A=14mA" />
 
-<h2>POSICION D</h2>
+POSICION D
 
 <img src="https://latex.codecogs.com/svg.image?R_{4}=330.61\Omega" title="R_{4}=330.61\Omega" />
 
@@ -84,10 +84,32 @@ Reemplazar ecuación 2 en 1:
 
 **(c) ¿Se fundirá un fusible de 1/4 A en cualquier posición del interruptor?**
 
+No
+
 
 **31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?**
 
+DATOS
 
+<img src="https://latex.codecogs.com/svg.image?V_{total}=20V" title="V_{total}=20V" />
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{1}}=1.5V" title="V_{R_{1}}=1.5V" />
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{2}}=5.5V" title="V_{R_{2}}=5.5V" />
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{3}}=3V" title="V_{R_{3}}=3V" />
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{4}}=6V" title="V_{R_{4}}=6V" />
+
+Ecuación  1:
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{total}}=V_{R_{1}}&plus;V_{R_{2}}&plus;V_{R_{3}}&plus;V_{R_{4}}&plus;V_{R_{5}}" title="V_{R_{total}}=V_{R_{1}}+V_{R_{2}}+V_{R_{3}}+V_{R_{4}}+V_{R_{5}}" />
+
+Reemplazar datos en 1:
+
+<img src="https://latex.codecogs.com/svg.image?V_{R_{total}}=1.5V&plus;5.5V&plus;3V&plus;6V&plus;V_{R_{5}}" title="V_{R_{total}}=1.5V+5.5V+3V+6V+V_{R_{5}}" />
+
+<img src="https://latex.codecogs.com/svg.image?20V-1.5V-5.5V-3V-6V=V_{R_{5}}\Rightarrow&space;V_{R_{5}}=4V" title="20V-1.5V-5.5V-3V-6V=V_{R_{5}}\Rightarrow V_{R_{5}}=4V" />
 
 
 ***37. La resistencia total de un circuito es de 560 ohms. ¿Qué porcentaje del voltaje total aparece a través de un
