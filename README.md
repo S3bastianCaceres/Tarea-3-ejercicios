@@ -188,7 +188,7 @@ a) R4 esta abierto
 
 b) A y B estan en corto
 
-<h4>CAPITULO 6</4>
+<h4>CAPITULO 6</h4>
 
 **1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.**
 
