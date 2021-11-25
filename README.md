@@ -48,34 +48,34 @@ b)
 
 **(a) ¿Cuál es la resistencia de R4?**
 
-Ecuación 1 -Resistencia total:
+*Ecuación 1 -Resistencia total:
 
 <img src="https://latex.codecogs.com/svg.image?R_{total}=220\Omega&space;&plus;470\Omega&space;&plus;510\Omega&space;&plus;R_{4}&space;" title="R_{total}=220\Omega +470\Omega +510\Omega +R_{4} " />
 
-Ecuación 2 - Resistencia total:
+*Ecuación 2 - Resistencia total:
 
 <img src="https://latex.codecogs.com/svg.image?R_{total}=\frac{V}{I}=\frac{12V}{0.00784A}=1530.61\Omega&space;" title="R_{total}=\frac{V}{I}=\frac{12V}{0.00784A}=1530.61\Omega " />
 
-Reemplazar ecuación 2 en 1:
+*Reemplazar ecuación 2 en 1:
 
 <img src="https://latex.codecogs.com/svg.image?1530.61\Omega&space;-220\Omega&space;-470\Omega&space;-510\Omega&space;=R_{4}\Rightarrow&space;R_{4}=330.61\Omega&space;&space;" title="1530.61\Omega -220\Omega -470\Omega -510\Omega =R_{4}\Rightarrow R_{4}=330.61\Omega " />
 
 **(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?**
 
-POSICION B
+*POSICION B
 
 <img src="https://latex.codecogs.com/svg.image?R_{B}=R_{total}-220\Omega=1310.61\Omega" title="R_{B}=R_{total}-220\Omega=1310.61\Omega" />
 
 <img src="https://latex.codecogs.com/svg.image?I_{b}=\frac{12V}{1310.61\Omega}=0.009A=9mA&space;" title="I_{b}=\frac{12V}{1310.61\Omega}=0.009A=9mA " />
 
 
-POSICION C
+*POSICION C
 
 <img src="https://latex.codecogs.com/svg.image?R_{C}=R_{total}-220\Omega-470\Omega=840.61\Omega" title="R_{C}=R_{total}-220\Omega-470\Omega=840.61\Omega" />
 
 <img src="https://latex.codecogs.com/svg.image?I_{C}=\frac{12V}{840.61\Omega}=0.014A=14mA" title="I_{C}=\frac{12V}{840.61\Omega}=0.014A=14mA" />
 
-POSICION D
+*POSICION D
 
 <img src="https://latex.codecogs.com/svg.image?R_{4}=330.61\Omega" title="R_{4}=330.61\Omega" />
 
@@ -89,7 +89,7 @@ No
 
 **31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?**
 
-DATOS
+*DATOS
 
 <img src="https://latex.codecogs.com/svg.image?V_{total}=20V" title="V_{total}=20V" />
 
@@ -101,11 +101,11 @@ DATOS
 
 <img src="https://latex.codecogs.com/svg.image?V_{R_{4}}=6V" title="V_{R_{4}}=6V" />
 
-Ecuación  1:
+*Ecuación  1:
 
 <img src="https://latex.codecogs.com/svg.image?V_{R_{total}}=V_{R_{1}}&plus;V_{R_{2}}&plus;V_{R_{3}}&plus;V_{R_{4}}&plus;V_{R_{5}}" title="V_{R_{total}}=V_{R_{1}}+V_{R_{2}}+V_{R_{3}}+V_{R_{4}}+V_{R_{5}}" />
 
-Reemplazar datos en 1:
+*Reemplazar datos en 1:
 
 <img src="https://latex.codecogs.com/svg.image?V_{R_{total}}=1.5V&plus;5.5V&plus;3V&plus;6V&plus;V_{R_{5}}" title="V_{R_{total}}=1.5V+5.5V+3V+6V+V_{R_{5}}" />
 
@@ -115,7 +115,9 @@ Reemplazar datos en 1:
 ***37. La resistencia total de un circuito es de 560 ohms. ¿Qué porcentaje del voltaje total aparece a través de un
 resistor de 27 ohms que forma parte de la resistencia total en serie?**
 
+*Aplicación de una regla de 3:
 
+<img src="https://latex.codecogs.com/svg.image?560\Omega=100%\Rightarrow&space;27\Omega=4.82%&space;" title="560\Omega=100%\Rightarrow 27\Omega=4.82% " />
 
 
 
@@ -123,9 +125,58 @@ resistor de 27 ohms que forma parte de la resistencia total en serie?**
 
 [![4.png](https://i.postimg.cc/wv0PfC6x/4.png)](https://postimg.cc/XGBQXDGt)
 
+*En R1:
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{10V}{5600\Omega}=0.0017A" title="I=\frac{V}{R}=\frac{10V}{5600\Omega}=0.0017A" />
+
+*En R2:
+
+<img src="https://latex.codecogs.com/svg.image?V=(I)(R)=(0.0017A)(1000\Omega)=1.78V" title="V=(I)(R)=(0.0017A)(1000\Omega)=1.78V" />
+
+*En R3:
+
+<img src="https://latex.codecogs.com/svg.image?V=(I)(R)=(0.0017A)(560\Omega)=1V" title="V=(I)(R)=(0.0017A)(560\Omega)=1V" />
+
+*En R4:
+
+<img src="https://latex.codecogs.com/svg.image?V=(I)(R)=(0.0017A)(10000\Omega)=17.86V" title="V=(I)(R)=(0.0017A)(10000\Omega)=17.86V" />
+
+
 **49. Encuentre RT en la figura 5-89**
 
 [![5.png](https://i.postimg.cc/tgD2pF82/5.png)](https://postimg.cc/jWwzhnx7)
+
+*En R1:
+
+<img src="https://latex.codecogs.com/svg.image?R_{1}=5600000\Omega" title="R_{1}=5600000\Omega" />
+
+<img src="https://latex.codecogs.com/svg.image?V=12V" title="V=12V" />
+
+-Intensidad de corriente presente en el circuito en serie
+
+<img src="https://latex.codecogs.com/svg.image?I_{total}=\frac{12V}{5600000}=0.000002142A=2.14\mu&space;A" title="I_{total}=\frac{12V}{5600000}=0.000002142A=2.14\mu A" />
+
+*En R2:
+
+<img src="https://latex.codecogs.com/svg.image?V=4.8V" title="V=4.8V" />
+
+-Resistencia 2 - por ley de ohm
+
+<img src="https://latex.codecogs.com/svg.image?R_{2}=\frac{V}{I}=\frac{4.8V}{2.14\mu&space;A}=2240000\Omega=2.24&space;M\Omega" title="R_{2}=\frac{V}{I}=\frac{4.8V}{2.14\mu A}=2240000\Omega=2.24 M\Omega" />
+
+*En R3:
+
+<img src="https://latex.codecogs.com/svg.image?P=21.5\mu&space;W" title="P=21.5\mu W" />
+
+-Fórmula de la potencia:
+
+<img src="https://latex.codecogs.com/svg.image?P=(I^{2})(R)\Rightarrow&space;R=\frac{P}{I^{2}}" title="P=(I^{2})(R)\Rightarrow R=\frac{P}{I^{2}}" />
+
+<img src="https://latex.codecogs.com/svg.image?R=\frac{21.5\mu&space;W}{(2.14\mu&space;A)^{2}}=4.69M\Omega" title="R=\frac{21.5\mu W}{(2.14\mu A)^{2}}=4.69M\Omega" />
+
+*Suma de las resistencias presentes en el circuito
+
+<img src="https://latex.codecogs.com/svg.image?R_{total}=5.6M\Omega&plus;2.24M\Omega&plus;4.69M\Omega=12.53M\Omega" title="R_{total}=5.6M\Omega+2.24M\Omega+4.69M\Omega=12.53M\Omega" />
 
 
 
