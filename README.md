@@ -185,6 +185,7 @@ resistor de 27 ohms que forma parte de la resistencia total en serie?**
 [![6.png](https://i.postimg.cc/59HdKtFZ/6.png)](https://postimg.cc/3WHcdY1B)
 
 a) R4 esta abierto
+
 b) A y B estan en corto
 
 <h4>CAPITULO 6</4>
