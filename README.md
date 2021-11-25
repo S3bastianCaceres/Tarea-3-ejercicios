@@ -194,32 +194,97 @@ b) A y B estan en corto
 
 [![1.png](https://i.postimg.cc/507ZxdL6/1.png)](https://postimg.cc/62ZH0PHX)
 
-
+[![1-1.png](https://i.postimg.cc/2yZQmddL/1-1.png)](https://postimg.cc/jnRw47FR)
 
 **7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?**
 
 [![2.png](https://i.postimg.cc/j2DB2g4v/2.png)](https://postimg.cc/GT1XSjNs)
 
+*Posición A
+
+R1= 15V
+R2= 0
+R3= 0
+R4= 15V
+
+*Posición B
+
+R1= 15V
+R2= 0 
+R3= 15V
+R4= 0
+
+
+*Posicion C
+
+R1= 15V
+R2= 15V
+R3= 0
+R4= 0
 
 *** 13. La resistencia total de un circuito en paralelo es de 25 ohms. ¿Cuál es la corriente a través de un resistor de 220 ohms que forma parte de este circuito si la corriente total es de 100 mA?**
 
+*DATOS
 
+<img src="https://latex.codecogs.com/svg.image?R_{total}=&space;25\Omega" title="R_{total}= 25\Omega" />
 
+<img src="https://latex.codecogs.com/svg.image?I_{total}=&space;100mA" title="I_{total}= 100mA" />
 
+<img src="https://latex.codecogs.com/svg.image?R=&space;220\Omega" title="R= 220\Omega" />
+
+*VOLTAJE TOTAL
+
+<img src="https://latex.codecogs.com/svg.image?V_{total}=(I_{total})(R_{total})" title="V_{total}=(I_{total})(R_{total})" />
+
+<img src="https://latex.codecogs.com/svg.image?V_{total}=(0.1&space;A)(25\Omega)=&space;2.5V" title="V_{total}=(0.1 A)(25\Omega)= 2.5V" />
+
+*CORRIENTE EN EL RESISTOR (R)
+
+<img src="https://latex.codecogs.com/svg.image?I_{R}=\frac{V_{total}}{R}=\frac{2.5V}{220\Omega}=0.01136A=11.36mA" title="I_{R}=\frac{V_{total}}{R}=\frac{2.5V}{220\Omega}=0.01136A=11.36mA" />
 
 **19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18**
 
 **-Ejercicio: 18. Tres grupos, uno de cinco resistores de 470 ohms, otro de diez resistores de 100 ohms, y uno más de dos resistores de 100 ohms están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?**
 
 
+*GRUPO 1 
+
+
+*GRUPO 2
+
+
+*GRUPO 3
+
+
 
 
 **25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kohms, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?**
 
+*DATOS
+
+<img src="https://latex.codecogs.com/svg.image?V_{total}=110V" title="V_{total}=110V" />
+
+<img src="https://latex.codecogs.com/svg.image?R_{foco}=2200\Omega" title="R_{foco}=2200\Omega" />
+
+*CORRIENTE A TRAVES DE UN FOCO
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{110V}{2200\Omega}=0.05A=50mA" title="I=\frac{V}{R}=\frac{110V}{2200\Omega}=0.05A=50mA" />
 
 **31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79**
 
 [![3.png](https://i.postimg.cc/yYSwzGd8/3.png)](https://postimg.cc/CzSvGmk3)
+
+POSICIÓN A:
+
+2.25mA
+
+POSICIÓN B:
+
+4.75mA
+
+POSICIÓN C:
+
+(2.25+4.75)mA=7mA
 
 
 ***37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kohms de escala completa entre la derivación para realizar la medición**
