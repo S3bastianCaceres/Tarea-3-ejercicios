@@ -192,11 +192,13 @@ b) A y B estan en corto
 
 **1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.**
 
+[![1.png](https://i.postimg.cc/507ZxdL6/1.png)](https://postimg.cc/62ZH0PHX)
+
 
 
 **7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?**
 
-
+[![2.png](https://i.postimg.cc/j2DB2g4v/2.png)](https://postimg.cc/GT1XSjNs)
 
 
 *** 13. La resistencia total de un circuito en paralelo es de 25 ohms. ¿Cuál es la corriente a través de un resistor de 220 ohms que forma parte de este circuito si la corriente total es de 100 mA?**
@@ -212,15 +214,15 @@ b) A y B estan en corto
 
 
 
-**25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kÆ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?**
+**25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kohms, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?**
 
 
 **31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79**
 
+[![3.png](https://i.postimg.cc/yYSwzGd8/3.png)](https://postimg.cc/CzSvGmk3)
 
 
-
-***37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kÆ de escala completa entre la derivación para realizar la medición**
+***37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kohms de escala completa entre la derivación para realizar la medición**
 
 
 (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
@@ -236,6 +238,8 @@ aplicación de medición de 50 A?
 
 *** 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:**
 
+[![4.png](https://i.postimg.cc/ZqjQctfV/4.png)](https://postimg.cc/nsjTF5fD)
+
 (a) 1 y 2 
 
 (b) 2 y 3 
@@ -243,6 +247,10 @@ aplicación de medición de 50 A?
 (c) 2 y 4 
 
 (d) 1 y 4
+
+
+
+
 
 
 
