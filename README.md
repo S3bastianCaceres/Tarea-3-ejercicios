@@ -334,15 +334,21 @@ P=75W; 6 FOCOS; V=110V;
 
 [![4.png](https://i.postimg.cc/ZqjQctfV/4.png)](https://postimg.cc/nsjTF5fD)
 
-(a) 1 y 2 
+(a) 1 y 2
+
+<img src="https://latex.codecogs.com/svg.image?R_{1-2}=\left&space;(&space;\frac{1}{R_{1}}&plus;\frac{1}{R_{2}}&plus;\frac{1}{R_{3}}&plus;\frac{1}{R_{4}}&plus;\frac{1}{R_{11}}&plus;\frac{1}{R_{12}}&space;\right)^{-1}&plus;\left&space;(\frac{1}{R_{5}}&plus;\frac{1}{R_{6}}&plus;\frac{1}{R_{7}}&plus;\frac{1}{R_{8}}&plus;\frac{1}{R_{9}}&plus;\frac{1}{R_{10}}&space;\right&space;)^{-1}" title="R_{1-2}=\left ( \frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}+\frac{1}{R_{4}}+\frac{1}{R_{11}}+\frac{1}{R_{12}} \right)^{-1}+\left (\frac{1}{R_{5}}+\frac{1}{R_{6}}+\frac{1}{R_{7}}+\frac{1}{R_{8}}+\frac{1}{R_{9}}+\frac{1}{R_{10}} \right )^{-1}" />
 
 (b) 2 y 3 
 
+<img src="https://latex.codecogs.com/svg.image?R_{2-3}=\left&space;(\frac{1}{R_{5}}&plus;\frac{1}{R_{6}}&plus;\frac{1}{R_{7}}&plus;\frac{1}{R_{8}}&plus;\frac{1}{R_{9}}&plus;\frac{1}{R_{10}}&space;\right&space;)^{-1}" title="R_{2-3}=\left (\frac{1}{R_{5}}+\frac{1}{R_{6}}+\frac{1}{R_{7}}+\frac{1}{R_{8}}+\frac{1}{R_{9}}+\frac{1}{R_{10}} \right )^{-1}" />
+
 (c) 2 y 4 
+
+<img src="https://latex.codecogs.com/svg.image?R_{2-4}=\left&space;(\frac{1}{R_{5}}&plus;\frac{1}{R_{6}}&plus;\frac{1}{R_{7}}&plus;\frac{1}{R_{8}}&plus;\frac{1}{R_{9}}&plus;\frac{1}{R_{10}}&space;\right&space;)^{-1}" title="R_{2-4}=\left (\frac{1}{R_{5}}+\frac{1}{R_{6}}+\frac{1}{R_{7}}+\frac{1}{R_{8}}+\frac{1}{R_{9}}+\frac{1}{R_{10}} \right )^{-1}" />
 
 (d) 1 y 4
 
-
+<img src="https://latex.codecogs.com/svg.image?R_{1-4}=\left&space;(\frac{1}{R_{1}}&plus;\frac{1}{R_{2}}&plus;\frac{1}{R_{3}}&plus;\frac{1}{R_{4}}&plus;\frac{1}{R_{11}}&plus;\frac{1}{R_{12}}&space;\right&space;)^{-1}" title="R_{1-4}=\left (\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}+\frac{1}{R_{4}}+\frac{1}{R_{11}}+\frac{1}{R_{12}} \right )^{-1}" />
 
 
 
