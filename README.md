@@ -2,22 +2,39 @@
 
 
 MAPAS
+**Pesistores en paralelo**
 
 [![1.png](https://i.postimg.cc/rp0MQNv7/1.png)](https://postimg.cc/06sTND5C)
 
+**Voltaje en un circuito en paralelo**
+
 [![2.png](https://i.postimg.cc/L5vcHJcz/2.png)](https://postimg.cc/ctg9hL4H)
+
+**Ley de las corrientes de Kirchhoff**
 
  [![3.png](https://i.postimg.cc/6q6P198T/3.png)](https://postimg.cc/qhYQNHXd)
 
+**Resistencia total en paralelo**
+
  [![4.png](https://i.postimg.cc/fW5pS0Pd/4.png)](https://postimg.cc/CdBmWdSM)
+
+**Fuentes de corriente en paralelo**
 
  [![5.png](https://i.postimg.cc/15fCg7wx/5.png)](https://postimg.cc/zVYS6jxp)
 
+**Divisores de corriente**
+
 [![6.png](https://i.postimg.cc/8c3bBDW2/6.png)](https://postimg.cc/D4rsn9x6)
+
+**Potencia en circuitos en palelo**
 
 [![7.png](https://i.postimg.cc/Y9CN5jxc/7.png)](https://postimg.cc/qtWCnJYQ)
 
+**Ramas abiertas**
+
 [![8.png](https://i.postimg.cc/BbdxPpfs/8.png)](https://postimg.cc/q6xt987Z)
+
+**Localizacion de fallas**
 
 [![9.png](https://i.postimg.cc/0NcD0P1V/9.png)](https://postimg.cc/GBT4c02D)
 
