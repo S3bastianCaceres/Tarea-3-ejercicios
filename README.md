@@ -313,6 +313,21 @@ I=?;  V=50mV;  R=10kohms
 
 **43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?**
 
+*DATOS
+
+P=75W; 6 FOCOS; V=110V; 
+
+*Fórmula de la potencia y reemplazado datos
+
+<img src="https://latex.codecogs.com/svg.image?P=\frac{V^{2}}{R}\Rightarrow&space;R=\frac{(110^{2})}{75W}=161.33\Omega" title="P=\frac{V^{2}}{R}\Rightarrow R=\frac{(110^{2})}{75W}=161.33\Omega" />
+
+*Corriente en cada resistencia (foco)
+
+<img src="https://latex.codecogs.com/svg.image?I=\frac{V}{R}=\frac{110V}{161.33\Omega}=0.6818A=681.81mA" title="I=\frac{V}{R}=\frac{110V}{161.33\Omega}=0.6818A=681.81mA" />
+
+*Corriente total
+
+<img src="https://latex.codecogs.com/svg.image?I_{total}=(0.6818mA)(5_{focos})=3.40mA" title="I_{total}=(0.6818mA)(5_{focos})=3.40mA" />
 
 
 *** 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:**
